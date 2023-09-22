@@ -1,6 +1,6 @@
 # React Quiz App 🚀
 
-Welcome to the React Quiz App, a fun and interactive quiz game built with React! Test your knowledge, challenge your friends, and strive for the highscore. This app is designed to help you understand how to create a simple quiz application using React and a mock server. Let's dive into the details! You can also see the deployment of the app : https://the-react-quiz.netlify.app/
+Welcome to the React Quiz App, a fun and interactive quiz game built with React! Test your knowledge, challenge your friends, and strive for the highscore. This app is designed to help you understand how to create a simple quiz application using React and a mock server. Let's dive into the details! You can also see the demo of the app here : https://the-react-quiz.netlify.app/
 
 ## Table of Contents
 - [Features](#features) 🌟
